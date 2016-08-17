@@ -45,3 +45,13 @@ Primary key(Cust_Id, Store_Id,Product_Id),
 Foreign Key (Cust_Id) References Customer (Cust_Id),
 Foreign Key (Store_Id) References Store (Store_Id),
 Foreign Key (Product_Id) References Product_Details (Product_Id));
+
+-----------------------------------------------------------------------------------------------------------------
+http://www.designerslib.com/bootstrap-login-form-templates/
+     isme bahut saare login form h.. aur sabke coddes bhi
+
+
+http://www.geodatasource.com/developers/javascript  :javascript code for distance
+ using decimal values of latitude and longitude
+
+http://tutorialzine.com/2014/04/responsive-shopping-cart-layout-twitter-bootstrap-3/   :template for shoppin cart
